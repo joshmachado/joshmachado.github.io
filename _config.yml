@@ -10,7 +10,7 @@ user_description: I'm a first year astronomy PhD student at Ohio State Universit
 user_title: Astronomy PhD Student
 email: machado.35@osu.edu
 twitter_username: astronomerjosh
-github_username: joshmacado
+github_username: joshmachado
 # gplus_username:  lorem_ipsum
 
 exclude: ['package.json', 'src' , 'node_modules']
